@@ -1,6 +1,6 @@
-# Simple Tailwind Starter
+# Simple Tailwind Clipboard website
 
-This is a simple Tailwind starter project using the Tailwind CLI. It is meant to be used as a starting point for your projects.
+This is a simple Tailwind project using the Tailwind CLI.
 
 ## Usage
 
